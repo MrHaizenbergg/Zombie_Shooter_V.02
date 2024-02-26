@@ -1,0 +1,14 @@
+{
+    "idSave": 2108,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 5,
+    "newPlayerName": "{\"killedZombies\":3,\"amountGrenade\":0,\"currentSkin\":1,\"currentLevel\":1,\"currentWeapon\":0,\"currentWeaponTwo\":0,\"money\":5390,\"weaponUnlocked\":[true,true,false,false,false,false,false],\"skinsUnlocked\":[true,true,false,false,false,false,false,false,false,false],\"elapsedTimeFirstLevel\":12.9784184,\"elapsedTimeSecondLevel\":0.0,\"elapsedTimeThirdLevel\":0.0,\"timeBetweenShotCloseUpgrade\":[true,true,true,true,true,false,false],\"bulletSpeedCloseUpgrade\":[true,true,true,true,true,false,false],\"damageCloseUpgrade\":[true,true,true,true,true,false,false],\"reloadTimeCloseUpgrade\":[true,true,true,true,true,false,false],\"magSizeCloseUpgrade\":[true,true,true,true,true,false,false],\"timeBetweenShotsPistol\":1.5,\"bulletSpeedPistol\":19.0,\"damagePistol\":4.0,\"reloadTimePistol\":4.0,\"magSizePistol\":6,\"timeBetweenShotsShotGun\":1.2,\"bulletSpeedShotGun\":15.0,\"damageShotGun\":5.0,\"reloadTimeShotGun\":4.0,\"magSizeShotGun\":2,\"timeBetweenShotsAKA\":0.7,\"bulletSpeedAKA\":21.0,\"damageAKA\":6.0,\"reloadTimeAKA\":5.0,\"magSizeAKA\":24,\"timeBetweenShotsMahineGun\":0.5,\"bulletSpeedMahineGun\":19.0,\"damageMahineGun\":5.0,\"reloadTimeMahineGun\":10.0,\"magSizeMahineGun\":55,\"timeBetweenShotsSniperRiffle\":3.3,\"bulletSpeedSniperRiffle\":23.0,\"damageSniperRiffle\":15.0,\"reloadTimeSniperRiffle\":7.0,\"magSizeSniperRiffle\":7}",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "jsonSaves": "{\"killedZombies\":19,\"amountGrenade\":1,\"currentSkin\":0,\"currentLevel\":1,\"currentWeapon\":0,\"currentWeaponTwo\":0,\"money\":2720,\"weaponUnlocked\":[true,false,false,false,false,false,false],\"skinsUnlocked\":[true,false,false,false,false,false,false,false,false,false],\"elapsedTimeFirstLevel\":0.0,\"elapsedTimeSecondLevel\":0.0,\"elapsedTimeThirdLevel\":0.0,\"timeBetweenShotCloseUpgrade\":[true,true,true,true,true,false,false],\"bulletSpeedCloseUpgrade\":[true,true,true,true,true,false,false],\"damageCloseUpgrade\":[true,true,true,true,true,false,false],\"reloadTimeCloseUpgrade\":[true,true,true,true,true,false,false],\"magSizeCloseUpgrade\":[true,true,true,true,true,false,false],\"timeBetweenShotsPistol\":1.5,\"bulletSpeedPistol\":19.0,\"damagePistol\":4.0,\"reloadTimePistol\":4.0,\"magSizePistol\":6,\"timeBetweenShotsShotGun\":1.2,\"bulletSpeedShotGun\":15.0,\"damageShotGun\":5.0,\"reloadTimeShotGun\":4.0,\"magSizeShotGun\":2,\"timeBetweenShotsAKA\":0.6,\"bulletSpeedAKA\":21.0,\"damageAKA\":6.0,\"reloadTimeAKA\":5.0,\"magSizeAKA\":24,\"timeBetweenShotsMahineGun\":0.5,\"bulletSpeedMahineGun\":19.0,\"damageMahineGun\":5.0,\"reloadTimeMahineGun\":10.0,\"magSizeMahineGun\":55,\"timeBetweenShotsSniperRiffle\":3.3,\"bulletSpeedSniperRiffle\":23.0,\"damageSniperRiffle\":25.0,\"reloadTimeSniperRiffle\":7.0,\"magSizeSniperRiffle\":7}"
+}

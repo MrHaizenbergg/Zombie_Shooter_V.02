@@ -1,0 +1,2806 @@
+fileFormatVersion: 2
+guid: 331445eb9efab914ca8809af223fd411
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2026
+        width: 239
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00f8ef87abb62449df1e71209ec6fe
+      internalID: 908952496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2239
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951d9da29c78454a9d3951dcab4ea68
+      internalID: 1992330195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2239
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4dfb522c7bb9a4c8a448a234f07137
+      internalID: 1779564557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2239
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ae76e37b361548bbb582f3e72217e
+      internalID: 841974883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2239
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff468187ba86fca46b12c9ca482a008e
+      internalID: 1763783282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_5
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2023
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedfccc6afb2e114997e0ea8c2e50763
+      internalID: 2146851674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_6
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2023
+        width: 310
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc00599d35532543b6dcf5cb3df2d34
+      internalID: 749940727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_7
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2158
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56f13dd2c36974c9c8ad4549df39db
+      internalID: 1537707400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_8
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2119
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792441c5b4ec96b48964789ea1db7f86
+      internalID: 1933178626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2155
+        width: 11
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b720a8e44e0c9448d5963c222d0d48
+      internalID: -1049228400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2155
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e957bb7da04d824e88584f72ea74e34
+      internalID: 483634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2155
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dea9351e9820a4ab09801ab059fd16
+      internalID: -343297668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2155
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9bf19dd6f5de740a119cbc50e9cd0f
+      internalID: -2015482664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2075
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4189b38b17c19d4f8f317740650e1e5
+      internalID: -484793244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2075
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2240d807eed533548bf6a405dfaa9546
+      internalID: -228386767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_15
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2075
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f961fc4c331037419b5b2d5a8e5201e
+      internalID: -729099553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_16
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2075
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e1e6edfecd78743a48df50e337919c
+      internalID: -1505317229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_17
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2036
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0375aa969ba548b9de12a61098085
+      internalID: -1438880955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_18
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 2000
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b06cdff62cad4582be70ea0fe0934
+      internalID: -1524790563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_19
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1974
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa33021faf7b44e91786a9ee2453a8
+      internalID: 1687086359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1897
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acf1fbc086ab54b802e51a03e2bab8
+      internalID: -1917741826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1897
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715bca3bc78fcdf48b25725533104fd2
+      internalID: -1163729148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1495
+        width: 11
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ac6953b116f04a934cb7b98cd39f7
+      internalID: 1638341304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1495
+        width: 19
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad069d72f377e1a4fb32dd3b4959b364
+      internalID: 1365361258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1495
+        width: 53
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8dc10892215374cb0bb2bb0d3e4839
+      internalID: -1696253307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1495
+        width: 107
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3a426636a02146a3991ba28e1ba2d
+      internalID: 1318686947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_26
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1943
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84075aafef754eb4184fe233f509a480
+      internalID: 1086606988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_27
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1639
+        width: 341
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db82c45668b54be44b62b99b157eb745
+      internalID: -785841878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_28
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1765
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9904c62374f20b4f8a5d4d77a020150
+      internalID: 1601266062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1832
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592419f95d1c1b744a8ca4c071e84eee
+      internalID: -468797177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1789
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614c7d3c872ddc4fba1850e6d6afd24
+      internalID: -1150977003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1809
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c133e8ae7c4e4d85bfedcc0f425e5
+      internalID: 554114542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1832
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53329cf5477ea64c9002289a3b662a0
+      internalID: 765101196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_33
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1597
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6670b3b36fc93e4c9e8345546340f86
+      internalID: -2008923539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_34
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1597
+        width: 358
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538b97feec2073408f0be3e9d61a50a
+      internalID: -164674950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1760
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6530ea68dccc43949ad2d1d441574f3c
+      internalID: 1825657554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1767
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d057fda27497424799ce1e876d4caf6
+      internalID: 371214710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1768
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ebfddc755abd4ab3685af2704dcc4
+      internalID: -1713710082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1794
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06aba6fa83e4a48a4aeb113b693c7f
+      internalID: 52966600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1757
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7bd3519ede9b343806726fa3a7880e
+      internalID: -1052092739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1706
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4026ab6a7782bf4ea42c45ed477ffd3
+      internalID: -1204036158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1726
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a1dd1261eb9f4c93b14567ff26654
+      internalID: 329333783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1726
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050027caa52820e45a1bca80961a7ef6
+      internalID: 990402002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1706
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f705cf39d05fe7c4382ef0f94e840547
+      internalID: -1769232315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_44
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1573
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdadab8687b210948b93ed1070ee493e
+      internalID: 250115116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1611
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39955aee1f18ee4cb331fabf7b7f399
+      internalID: 444047723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1639
+        width: 121
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13b8de26ab62e4984fd7544916f1ba
+      internalID: -876459340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_47
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1633
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffa91e975628045aa0008268a5448b
+      internalID: 1559225570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_48
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1606
+        width: 121
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc1192b45e2264baf29a6f920e16c6
+      internalID: -1137925690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1611
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06509f369541bbc4886da4bf52e5dfb2
+      internalID: -446096340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_50
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1601
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60d23780bd45943934dcb92725ac77
+      internalID: -2147018987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1584
+        width: 79
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5d8003278ebe4f8d952f5aa98bd73
+      internalID: 1512365708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1584
+        width: 127
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6444899aa60642b95a22df5688a14
+      internalID: -179030346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1584
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d954ea770ebf740bfb502100d639d1
+      internalID: -2085008300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1555
+        width: 81
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3165dfe1e8f74a98813996df48577
+      internalID: 946710404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1555
+        width: 121
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7ec3c63fbacf4386d6c6c0b06253c
+      internalID: -2094945888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1555
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3d492e5c57e4479f655510b2a1526
+      internalID: 231742950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1527
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47339d9f5b144074f8d2beca1cfbd398
+      internalID: -1318586581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1527
+        width: 121
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217798a8139de4940b179cd1ebb79d91
+      internalID: -3086243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1501
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34100352230f549adefa8a65d1e18f
+      internalID: 1052702765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_60
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1527
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245fb02147fd8494fbcdb9cc58ea1e2c
+      internalID: -171512112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1501
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5429586028c564fb718dcb2d46b7d2
+      internalID: 1569528808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1501
+        width: 121
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca79af77efcdac34ba62514b812f664e
+      internalID: 296164517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1041
+        width: 30
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550addbb9866f1b4aba9ffd73e64c2b2
+      internalID: -606313159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 894
+        width: 394
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a269841dd5edff4aae10aec3e0c3ce4
+      internalID: -77443024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_65
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1032
+        width: 30
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1b577a2fbdfd4e9e29cbff52d38cc
+      internalID: 1204541874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_66
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1032
+        width: 272
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b55970e9ffec48844f12d1a3871f9
+      internalID: -1064396458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_67
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1021
+        width: 43
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d2c86ef36e6ea46b0637f516f2a72a
+      internalID: -567221227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_68
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1153
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a5fed3965c6a43a1532958377eb2d
+      internalID: 613536960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_69
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1162
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194dab429847ed3428d1464f874e045b
+      internalID: 483955318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_70
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1148
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5aec1a96bd8e4aa6d35722d21d155
+      internalID: -1561374951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_71
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1151
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b716e26cda54245a785186dd7e993c
+      internalID: 1163424983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_72
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1169
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f97bad77397e43a0c4311575addb5
+      internalID: -1468816255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_73
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1110
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7c53a9ae8bc243bcd2543b3a7b4ba
+      internalID: -93241592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_74
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 951
+        width: 498
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b5dd8741d4274b88458ef11930b01
+      internalID: 1831725954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_75
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1008
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f04bbf17afdbe479b62207b3708b17
+      internalID: 1938301567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_76
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1047
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7780aada96d3345af28499db8a8d73
+      internalID: 1936066365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_77
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1046
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472d02cb4e383ae40bba9bb1af2a5b8b
+      internalID: 258292490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_78
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1044
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37f860aeee9534ab2fccb338762ee2
+      internalID: 501605245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_79
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 805
+        width: 498
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b080045b62a6c4f8cc180c9412baea
+      internalID: -1209211757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_80
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 927
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd892a4c8f6bb45a3a0fd07679421e
+      internalID: 508002368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_81
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 783
+        width: 239
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4800f90010136f84fa730bd0f200d158
+      internalID: -1591493463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_82
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 920
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb98831380982242abf70f089b8deb5
+      internalID: -931621026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_83
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 970
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3a1f17ae23ae40802b950c28ae831
+      internalID: 1148495238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_84
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 970
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369944cf09858bd4b8b35e24b1f801ab
+      internalID: -2019099461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_85
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 844
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e42a19ae9221a4292f8d53755a97c4
+      internalID: 1549703756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_86
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 916
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b21aa7c88c7988448e2cd5faba1b01a
+      internalID: -911718083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_87
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 778
+        width: 30
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29ee3fb063e06046a1a71d6433fc435
+      internalID: 185963276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_88
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 778
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78571e71ad2907b43b877b967761393f
+      internalID: 1065930961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_89
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 887
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034444ce5d784e349a5c9063ca82eab5
+      internalID: -1754582012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_90
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 876
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19d30ba7ed7304c8427e4aa2c611ad
+      internalID: -663979922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 856
+        width: 244
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24d458128b35f40b51d807341d0e59
+      internalID: 1076410946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_92
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 828
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec9a3425c323949ac82eb52c125dbf
+      internalID: 1232153325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_93
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 853
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ad9de18849d74690c2e7c8f63f32b
+      internalID: -2103748717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_94
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 668
+        width: 184
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6142748cf639b9b4fbe1d1fbe5278edb
+      internalID: -854274620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_95
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 670
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed84660fd332c041a681c0123e15d57
+      internalID: -1892092515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_96
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 787
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777dbd6f0d4a514cbcf54ea39271f8b
+      internalID: -1771431575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 461
+        width: 396
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601671d09cb30e743875e0750672b9c2
+      internalID: -557682536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_98
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363d29bfa022084fa0da237297f54d9
+      internalID: 764425683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_99
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 798
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ee4a2e63cf104a97357276393d7df
+      internalID: -1328307134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 743
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0804ff75f6df4aaf6c91582eb791e
+      internalID: -1002498155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_101
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 709
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bfc2e434651844493bf240d42ab097
+      internalID: 1537012657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_102
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 704
+        width: 122
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb923439e6daf8a4ab488049d34f1879
+      internalID: 478905943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 623
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364e3a4b6fadbc4992556b29841f9ae
+      internalID: 190594651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_104
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 607
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec071ec91295a41be443ecc3007a69
+      internalID: 951156667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_105
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 607
+        width: 197
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c977cd95249a4881cbc67905b4b9a
+      internalID: -54028539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_106
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 363
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ea8f07aa578747a0618eff2b86832
+      internalID: 1145538050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 423
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37841f706d9c4a74b96e5e096c5a6131
+      internalID: -1207941032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 423
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ecdc0d9a7fc846b038188464bd8a3
+      internalID: 538367167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_109
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 423
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f334d09b05ce48bc1b51850462409
+      internalID: 1586762379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 191
+        width: 50
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5f9f6b781b274e8d03e90c903adfd
+      internalID: -301641808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_111
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 204
+        width: 341
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f0ea98a514954aba7291288e53fbb
+      internalID: -124348234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 280
+        width: 32
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b45e851901c2c43adf3dd8d102cfd4
+      internalID: 736010055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_113
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 98
+        width: 297
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a06012a1ecee4c818e037b0460565
+      internalID: 364112784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_114
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 187
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbb51af4479d9946a1c4fb97c6ca916
+      internalID: 1070122348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_115
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 146
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a0130c07631949b7372609ab7de69
+      internalID: 575985553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_116
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 62
+        width: 139
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d824de93ce29d7a4c8a47c9837d7b06a
+      internalID: 1474735322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 46
+        width: 144
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ff362287ff3804a8ba174992a00b88
+      internalID: -1203268180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_118
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 53
+        width: 97
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639c2a35706cc34b8a9ffd1159d5bf5
+      internalID: -1927275236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OMNIHUNTER Basic Construction v1_119
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862aa017a88bac40a19605a691cdcd3
+      internalID: 725624554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OMNIHUNTER Basic Construction v1_0: 908952496
+      OMNIHUNTER Basic Construction v1_1: 1992330195
+      OMNIHUNTER Basic Construction v1_10: 483634
+      OMNIHUNTER Basic Construction v1_100: -1002498155
+      OMNIHUNTER Basic Construction v1_101: 1537012657
+      OMNIHUNTER Basic Construction v1_102: 478905943
+      OMNIHUNTER Basic Construction v1_103: 190594651
+      OMNIHUNTER Basic Construction v1_104: 951156667
+      OMNIHUNTER Basic Construction v1_105: -54028539
+      OMNIHUNTER Basic Construction v1_106: 1145538050
+      OMNIHUNTER Basic Construction v1_107: -1207941032
+      OMNIHUNTER Basic Construction v1_108: 538367167
+      OMNIHUNTER Basic Construction v1_109: 1586762379
+      OMNIHUNTER Basic Construction v1_11: -343297668
+      OMNIHUNTER Basic Construction v1_110: -301641808
+      OMNIHUNTER Basic Construction v1_111: -124348234
+      OMNIHUNTER Basic Construction v1_112: 736010055
+      OMNIHUNTER Basic Construction v1_113: 364112784
+      OMNIHUNTER Basic Construction v1_114: 1070122348
+      OMNIHUNTER Basic Construction v1_115: 575985553
+      OMNIHUNTER Basic Construction v1_116: 1474735322
+      OMNIHUNTER Basic Construction v1_117: -1203268180
+      OMNIHUNTER Basic Construction v1_118: -1927275236
+      OMNIHUNTER Basic Construction v1_119: 725624554
+      OMNIHUNTER Basic Construction v1_12: -2015482664
+      OMNIHUNTER Basic Construction v1_13: -484793244
+      OMNIHUNTER Basic Construction v1_14: -228386767
+      OMNIHUNTER Basic Construction v1_15: -729099553
+      OMNIHUNTER Basic Construction v1_16: -1505317229
+      OMNIHUNTER Basic Construction v1_17: -1438880955
+      OMNIHUNTER Basic Construction v1_18: -1524790563
+      OMNIHUNTER Basic Construction v1_19: 1687086359
+      OMNIHUNTER Basic Construction v1_2: 1779564557
+      OMNIHUNTER Basic Construction v1_20: -1917741826
+      OMNIHUNTER Basic Construction v1_21: -1163729148
+      OMNIHUNTER Basic Construction v1_22: 1638341304
+      OMNIHUNTER Basic Construction v1_23: 1365361258
+      OMNIHUNTER Basic Construction v1_24: -1696253307
+      OMNIHUNTER Basic Construction v1_25: 1318686947
+      OMNIHUNTER Basic Construction v1_26: 1086606988
+      OMNIHUNTER Basic Construction v1_27: -785841878
+      OMNIHUNTER Basic Construction v1_28: 1601266062
+      OMNIHUNTER Basic Construction v1_29: -468797177
+      OMNIHUNTER Basic Construction v1_3: 841974883
+      OMNIHUNTER Basic Construction v1_30: -1150977003
+      OMNIHUNTER Basic Construction v1_31: 554114542
+      OMNIHUNTER Basic Construction v1_32: 765101196
+      OMNIHUNTER Basic Construction v1_33: -2008923539
+      OMNIHUNTER Basic Construction v1_34: -164674950
+      OMNIHUNTER Basic Construction v1_35: 1825657554
+      OMNIHUNTER Basic Construction v1_36: 371214710
+      OMNIHUNTER Basic Construction v1_37: -1713710082
+      OMNIHUNTER Basic Construction v1_38: 52966600
+      OMNIHUNTER Basic Construction v1_39: -1052092739
+      OMNIHUNTER Basic Construction v1_4: 1763783282
+      OMNIHUNTER Basic Construction v1_40: -1204036158
+      OMNIHUNTER Basic Construction v1_41: 329333783
+      OMNIHUNTER Basic Construction v1_42: 990402002
+      OMNIHUNTER Basic Construction v1_43: -1769232315
+      OMNIHUNTER Basic Construction v1_44: 250115116
+      OMNIHUNTER Basic Construction v1_45: 444047723
+      OMNIHUNTER Basic Construction v1_46: -876459340
+      OMNIHUNTER Basic Construction v1_47: 1559225570
+      OMNIHUNTER Basic Construction v1_48: -1137925690
+      OMNIHUNTER Basic Construction v1_49: -446096340
+      OMNIHUNTER Basic Construction v1_5: 2146851674
+      OMNIHUNTER Basic Construction v1_50: -2147018987
+      OMNIHUNTER Basic Construction v1_51: 1512365708
+      OMNIHUNTER Basic Construction v1_52: -179030346
+      OMNIHUNTER Basic Construction v1_53: -2085008300
+      OMNIHUNTER Basic Construction v1_54: 946710404
+      OMNIHUNTER Basic Construction v1_55: -2094945888
+      OMNIHUNTER Basic Construction v1_56: 231742950
+      OMNIHUNTER Basic Construction v1_57: -1318586581
+      OMNIHUNTER Basic Construction v1_58: -3086243
+      OMNIHUNTER Basic Construction v1_59: 1052702765
+      OMNIHUNTER Basic Construction v1_6: 749940727
+      OMNIHUNTER Basic Construction v1_60: -171512112
+      OMNIHUNTER Basic Construction v1_61: 1569528808
+      OMNIHUNTER Basic Construction v1_62: 296164517
+      OMNIHUNTER Basic Construction v1_63: -606313159
+      OMNIHUNTER Basic Construction v1_64: -77443024
+      OMNIHUNTER Basic Construction v1_65: 1204541874
+      OMNIHUNTER Basic Construction v1_66: -1064396458
+      OMNIHUNTER Basic Construction v1_67: -567221227
+      OMNIHUNTER Basic Construction v1_68: 613536960
+      OMNIHUNTER Basic Construction v1_69: 483955318
+      OMNIHUNTER Basic Construction v1_7: 1537707400
+      OMNIHUNTER Basic Construction v1_70: -1561374951
+      OMNIHUNTER Basic Construction v1_71: 1163424983
+      OMNIHUNTER Basic Construction v1_72: -1468816255
+      OMNIHUNTER Basic Construction v1_73: -93241592
+      OMNIHUNTER Basic Construction v1_74: 1831725954
+      OMNIHUNTER Basic Construction v1_75: 1938301567
+      OMNIHUNTER Basic Construction v1_76: 1936066365
+      OMNIHUNTER Basic Construction v1_77: 258292490
+      OMNIHUNTER Basic Construction v1_78: 501605245
+      OMNIHUNTER Basic Construction v1_79: -1209211757
+      OMNIHUNTER Basic Construction v1_8: 1933178626
+      OMNIHUNTER Basic Construction v1_80: 508002368
+      OMNIHUNTER Basic Construction v1_81: -1591493463
+      OMNIHUNTER Basic Construction v1_82: -931621026
+      OMNIHUNTER Basic Construction v1_83: 1148495238
+      OMNIHUNTER Basic Construction v1_84: -2019099461
+      OMNIHUNTER Basic Construction v1_85: 1549703756
+      OMNIHUNTER Basic Construction v1_86: -911718083
+      OMNIHUNTER Basic Construction v1_87: 185963276
+      OMNIHUNTER Basic Construction v1_88: 1065930961
+      OMNIHUNTER Basic Construction v1_89: -1754582012
+      OMNIHUNTER Basic Construction v1_9: -1049228400
+      OMNIHUNTER Basic Construction v1_90: -663979922
+      OMNIHUNTER Basic Construction v1_91: 1076410946
+      OMNIHUNTER Basic Construction v1_92: 1232153325
+      OMNIHUNTER Basic Construction v1_93: -2103748717
+      OMNIHUNTER Basic Construction v1_94: -854274620
+      OMNIHUNTER Basic Construction v1_95: -1892092515
+      OMNIHUNTER Basic Construction v1_96: -1771431575
+      OMNIHUNTER Basic Construction v1_97: -557682536
+      OMNIHUNTER Basic Construction v1_98: 764425683
+      OMNIHUNTER Basic Construction v1_99: -1328307134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

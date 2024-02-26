@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &816957936227899496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2432063362713260687}
+  - component: {fileID: 8158588702911613507}
+  m_Layer: 0
+  m_Name: SaveManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2432063362713260687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816957936227899496}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8158588702911613507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816957936227899496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85c1b72adbe2a14eb54744f1f3710f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentLevel: 1
+  killedZombies: 0
+  amountGrenade: 1
+  currentSkin: 0
+  currentWeapon: 0
+  currentWeaponTwo: 0
+  money: 0
+  weaponUnlocked: 01000000000000
+  skinsUnlocked: 01000000000000000000
+  elapsedTimeFirstLevel: 0
+  elapsedTimeSecondLevel: 0
+  elapsedTimeThirdLevel: 0
+  timeBetweenShotCloseUpgrade: 01010101010000
+  bulletSpeedCloseUpgrade: 01010101010000
+  damageCloseUpgrade: 01010101010000
+  reloadTimeCloseUpgrade: 01010101010000
+  magSizeCloseUpgrade: 01010101010000
+  timeBetweenShotsPistol: 0
+  bulletSpeedPistol: 0
+  damagePistol: 0
+  reloadTimePistol: 0
+  magSizePistol: 0
+  timeBetweenShotsShotGun: 0
+  bulletSpeedShotGun: 0
+  damageShotGun: 0
+  reloadTimeShotGun: 0
+  magSizeShotGun: 0
+  timeBetweenShotsAKA: 0
+  bulletSpeedAKA: 0
+  damageAKA: 0
+  reloadTimeAKA: 0
+  magSizeAKA: 0
+  timeBetweenShotsMahineGun: 0
+  bulletSpeedMahineGun: 0
+  damageMahineGun: 0
+  reloadTimeMahineGun: 0
+  magSizeMahineGun: 0
+  timeBetweenShotsSniperRiffle: 0
+  bulletSpeedSniperRiffle: 0
+  damageSniperRiffle: 0
+  reloadTimeSniperRiffle: 0
+  magSizeSniperRiffle: 0
